@@ -1,0 +1,9 @@
+﻿{
+  "projectVersion": "1.0.0",
+  "uploadAndScan": {
+    "appName": "WebGoat.Net Visual Studio 2022",
+    "fileFolderPath": [
+      ".veracode/build"
+    ]
+  }
+}
