@@ -1,19 +1,38 @@
-C:\Users\Administrator\Documents\Visual Studio 2022 Repositories\WebGoat.NET\WebGoat\bin\DotNetGoat.dll
-C:\Users\Administrator\Documents\Visual Studio 2022 Repositories\WebGoat.NET\WebGoat\bin\DotNetGoat.pdb
-C:\Users\Administrator\Documents\Visual Studio 2022 Repositories\WebGoat.NET\WebGoat\bin\log4net.dll
-C:\Users\Administrator\Documents\Visual Studio 2022 Repositories\WebGoat.NET\WebGoat\bin\Mono.Data.Sqlite.dll
-C:\Users\Administrator\Documents\Visual Studio 2022 Repositories\WebGoat.NET\WebGoat\bin\mysql.data.dll
-C:\Users\Administrator\Documents\Visual Studio 2022 Repositories\WebGoat.NET\WebGoat\bin\mysql.data.entity.dll
-C:\Users\Administrator\Documents\Visual Studio 2022 Repositories\WebGoat.NET\WebGoat\bin\mysql.visualstudio.dll
-C:\Users\Administrator\Documents\Visual Studio 2022 Repositories\WebGoat.NET\WebGoat\bin\mysql.web.dll
-C:\Users\Administrator\Documents\Visual Studio 2022 Repositories\WebGoat.NET\WebGoat\bin\EnvDTE80.dll
-C:\Users\Administrator\Documents\Visual Studio 2022 Repositories\WebGoat.NET\WebGoat\bin\EnvDTE.dll
-C:\Users\Administrator\Documents\Visual Studio 2022 Repositories\WebGoat.NET\WebGoat\bin\stdole.dll
-C:\Users\Administrator\Documents\Visual Studio 2022 Repositories\WebGoat.NET\WebGoat\bin\log4net.xml
-C:\Users\Administrator\Documents\Visual Studio 2022 Repositories\WebGoat.NET\WebGoat\bin\EnvDTE80.xml
-C:\Users\Administrator\Documents\Visual Studio 2022 Repositories\WebGoat.NET\WebGoat\bin\EnvDTE.xml
-C:\Users\Administrator\Documents\Visual Studio 2022 Repositories\WebGoat.NET\WebGoat\obj\Debug\WebGoat.NET.csproj.AssemblyReference.cache
-C:\Users\Administrator\Documents\Visual Studio 2022 Repositories\WebGoat.NET\WebGoat\obj\Debug\WebGoat.NET.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\Documents\Visual Studio 2022 Repositories\WebGoat.NET\WebGoat\obj\Debug\WebGoat.NET.csproj.CopyComplete
-C:\Users\Administrator\Documents\Visual Studio 2022 Repositories\WebGoat.NET\WebGoat\obj\Debug\DotNetGoat.dll
-C:\Users\Administrator\Documents\Visual Studio 2022 Repositories\WebGoat.NET\WebGoat\obj\Debug\DotNetGoat.pdb
+C:/Users/Administrator/Documents/Visual Studio 2022 Repositories/WebGoat.NET/WebGoat/bin/DotNetGoat.dll
+C:/Users/Administrator/Documents/Visual Studio 2022 Repositories/WebGoat.NET/WebGoat/bin/DotNetGoat.pdb
+C:/Users/Administrator/Documents/Visual Studio 2022 Repositories/WebGoat.NET/WebGoat/bin/log4net.dll
+C:/Users/Administrator/Documents/Visual Studio 2022 Repositories/WebGoat.NET/WebGoat/bin/Mono.Data.Sqlite.dll
+C:/Users/Administrator/Documents/Visual Studio 2022 Repositories/WebGoat.NET/WebGoat/bin/mysql.data.dll
+C:/Users/Administrator/Documents/Visual Studio 2022 Repositories/WebGoat.NET/WebGoat/bin/mysql.data.entity.dll
+C:/Users/Administrator/Documents/Visual Studio 2022 Repositories/WebGoat.NET/WebGoat/bin/mysql.visualstudio.dll
+C:/Users/Administrator/Documents/Visual Studio 2022 Repositories/WebGoat.NET/WebGoat/bin/mysql.web.dll
+C:/Users/Administrator/Documents/Visual Studio 2022 Repositories/WebGoat.NET/WebGoat/bin/EnvDTE80.dll
+C:/Users/Administrator/Documents/Visual Studio 2022 Repositories/WebGoat.NET/WebGoat/bin/EnvDTE.dll
+C:/Users/Administrator/Documents/Visual Studio 2022 Repositories/WebGoat.NET/WebGoat/bin/stdole.dll
+C:/Users/Administrator/Documents/Visual Studio 2022 Repositories/WebGoat.NET/WebGoat/bin/log4net.xml
+C:/Users/Administrator/Documents/Visual Studio 2022 Repositories/WebGoat.NET/WebGoat/bin/EnvDTE80.xml
+C:/Users/Administrator/Documents/Visual Studio 2022 Repositories/WebGoat.NET/WebGoat/bin/EnvDTE.xml
+C:/Users/Administrator/Documents/Visual Studio 2022 Repositories/WebGoat.NET/WebGoat/obj/Debug/WebGoat.NET.csproj.AssemblyReference.cache
+C:/Users/Administrator/Documents/Visual Studio 2022 Repositories/WebGoat.NET/WebGoat/obj/Debug/WebGoat.NET.csproj.CoreCompileInputs.cache
+C:/Users/Administrator/Documents/Visual Studio 2022 Repositories/WebGoat.NET/WebGoat/obj/Debug/WebGoat.NET.csproj.CopyComplete
+C:/Users/Administrator/Documents/Visual Studio 2022 Repositories/WebGoat.NET/WebGoat/obj/Debug/DotNetGoat.dll
+C:/Users/Administrator/Documents/Visual Studio 2022 Repositories/WebGoat.NET/WebGoat/obj/Debug/DotNetGoat.pdb
+/Users/EGannaway/Documents/EdsGitRepos/WebGoat.NET/WebGoat/bin/DotNetGoat.dll
+/Users/EGannaway/Documents/EdsGitRepos/WebGoat.NET/WebGoat/bin/DotNetGoat.pdb
+/Users/EGannaway/Documents/EdsGitRepos/WebGoat.NET/WebGoat/bin/log4net.dll
+/Users/EGannaway/Documents/EdsGitRepos/WebGoat.NET/WebGoat/bin/Mono.Data.Sqlite.dll
+/Users/EGannaway/Documents/EdsGitRepos/WebGoat.NET/WebGoat/bin/mysql.data.dll
+/Users/EGannaway/Documents/EdsGitRepos/WebGoat.NET/WebGoat/bin/mysql.data.entity.dll
+/Users/EGannaway/Documents/EdsGitRepos/WebGoat.NET/WebGoat/bin/mysql.visualstudio.dll
+/Users/EGannaway/Documents/EdsGitRepos/WebGoat.NET/WebGoat/bin/mysql.web.dll
+/Users/EGannaway/Documents/EdsGitRepos/WebGoat.NET/WebGoat/bin/EnvDTE80.dll
+/Users/EGannaway/Documents/EdsGitRepos/WebGoat.NET/WebGoat/bin/EnvDTE.dll
+/Users/EGannaway/Documents/EdsGitRepos/WebGoat.NET/WebGoat/bin/stdole.dll
+/Users/EGannaway/Documents/EdsGitRepos/WebGoat.NET/WebGoat/bin/log4net.xml
+/Users/EGannaway/Documents/EdsGitRepos/WebGoat.NET/WebGoat/bin/EnvDTE80.xml
+/Users/EGannaway/Documents/EdsGitRepos/WebGoat.NET/WebGoat/bin/EnvDTE.xml
+/Users/EGannaway/Documents/EdsGitRepos/WebGoat.NET/WebGoat/obj/Debug/WebGoat.NET.csproj.AssemblyReference.cache
+/Users/EGannaway/Documents/EdsGitRepos/WebGoat.NET/WebGoat/obj/Debug/WebGoat.NET.csproj.CoreCompileInputs.cache
+/Users/EGannaway/Documents/EdsGitRepos/WebGoat.NET/WebGoat/obj/Debug/WebGoat.NET.csproj.CopyComplete
+/Users/EGannaway/Documents/EdsGitRepos/WebGoat.NET/WebGoat/obj/Debug/DotNetGoat.dll
+/Users/EGannaway/Documents/EdsGitRepos/WebGoat.NET/WebGoat/obj/Debug/DotNetGoat.pdb

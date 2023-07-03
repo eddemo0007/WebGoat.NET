@@ -1032,12 +1032,12 @@
           <TextStylePolicy inheritsSet="null" scope="application/config+xml" />
           <XmlFormattingPolicy inheritsSet="null" scope="application/config+xml" />
           <TextStylePolicy inheritsSet="null" scope="application/xml" />
-          <XmlFormattingPolicy inheritsSet="Mono" inheritsScope="application/xml" scope="application/xml" />
+          <XmlFormattingPolicy scope="application/xml" />
           <TextStylePolicy inheritsSet="null" scope="application/javascript" />
           <TextStylePolicy inheritsSet="null" scope="application/x-master-page" />
           <TextStylePolicy inheritsSet="null" scope="application/x-ashx" />
         </Policies>
-        <XspParameters Port="8081" Address="127.0.0.1" SslMode="None" SslProtocol="Default" KeyType="None" CertFile="" KeyFile="" PasswordOptions="None" Password="" Verbose="true" />
+        <XspParameters Port="8081" Address="127.0.0.1" SslMode="None" SslProtocol="Default" KeyType="None" CertFile="" KeyFile="" PasswordOptions="None" Password="" Verbose="True" />
       </Properties>
     </MonoDevelop>
     <VisualStudio>
@@ -1087,6 +1087,7 @@
     <None Include="DB_Scripts\products\.DS_Store" />
     <None Include="App_Data\XmlInjectionUsers.xml" />
     <None Include="DB_Scripts\create_webgoatcoins_sqlite3.sql" />
+    <None Include="EdsVersion.txt" />
   </ItemGroup>
   <ItemGroup />
 </Project>
