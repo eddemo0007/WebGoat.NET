@@ -1087,7 +1087,6 @@
     <None Include="DB_Scripts\products\.DS_Store" />
     <None Include="App_Data\XmlInjectionUsers.xml" />
     <None Include="DB_Scripts\create_webgoatcoins_sqlite3.sql" />
-    <None Include="EdsVersion.txt" />
   </ItemGroup>
   <ItemGroup />
 </Project>

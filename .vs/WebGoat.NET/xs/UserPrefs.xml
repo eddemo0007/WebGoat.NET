@@ -11,7 +11,9 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="WebGoat.NET">
-            <Node name="WebGoat.NET" expanded="True" />
+            <Node name="WebGoat.NET" expanded="True" selected="True">
+              <Node name="Configuration" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
