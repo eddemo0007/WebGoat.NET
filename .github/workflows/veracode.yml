@@ -42,7 +42,7 @@ jobs:
     - name: Veracode Upload And Scan
       uses: veracode/veracode-uploadandscan-action@0.2.6
       with:
-        appname: 'VeraDemoxxxxx'
+        appname: 'GitHub Action WebGoat.NET'
         createprofile: false
         filepath: 'veracode-scan-target.zip'
         vid: '8e3c8af9f16be054867c9344ce74090e'
