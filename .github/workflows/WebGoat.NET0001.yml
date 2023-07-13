@@ -1,0 +1,29 @@
+name: Veracode Static Analysis Demo
+on: workflow_dispatch
+    
+jobs:
+  static_analysis:
+    name: Static Analysis
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out main branch
+        uses: actions/checkout@v2
+        
+      - name: Build with Maven # Compiling the .war binary from the checked out repo source code to upload to the scanner in the next step
+        run: mvn -B package --file app/pom.xml
+          
+      - name: Veracode Upload And Scan
+        uses: veracode/veracode-uploadandscan-action@0.2.6
+        with:
+          appname: 'GitHub Action WebGoat.NET'
+          createprofile: false
+          filepath: 'app/target/verademo.war'
+          vid: '8e3c8af9f16be054867c9344ce74090e'
+          vkey: '3e95620ba25005d71b4d983a178454d9efe0836e6c00e60def419649472f3023878512af1d2aa24ec3950afc92aac916013add32409b9e4d60f623eb978546ff'
+#          createsandbox: 'true'
+#          sandboxname: 'SANDBOXNAME'
+#          scantimeout: 0
+#          exclude: '*.js'
+#          include: '*.war'
+#          criticality: 'VeryHigh'
