@@ -37,7 +37,24 @@ jobs:
         repository: ''
 
     - run: zip -r veracode-scan-target.zip ./
+    
+    # Start of Veracode Upload and Scan
+      - name: Veracode Upload And Scan
+        uses: veracode/veracode-uploadandscan-action@0.2.6
+        with:
+          appname: 'VeraDemo'
+          createprofile: false
+          filepath: 'veracode-scan-target.zip'
+          vid: '8e3c8af9f16be054867c9344ce74090e'
+          vkey: '3e95620ba25005d71b4d983a178454d9efe0836e6c00e60def419649472f3023878512af1d2aa24ec3950afc92aac916013add32409b9e4d60f623eb978546ff'
+#          createsandbox: 'true'
+#          sandboxname: 'SANDBOXNAME'
+#          scantimeout: 0
+#          exclude: '*.js'
+#          include: '*.war'
+#          criticality: 'VeryHigh'
 
+    # End of Veracode Upload and Scan
     # download the Veracode Static Analysis Pipeline scan jar
     - run: curl --silent --show-error --fail -O https://downloads.veracode.com/securityscan/pipeline-scan-LATEST.zip
     - run: unzip -o pipeline-scan-LATEST.zip
